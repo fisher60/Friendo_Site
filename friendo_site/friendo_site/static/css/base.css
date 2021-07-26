@@ -2,7 +2,7 @@ body{
     background: linear-gradient(to top right, #0a5194 0%, #42c2f5 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
@@ -15,5 +15,3 @@ body{
 .messages ul{
     list-style: none;
 }
-
-
